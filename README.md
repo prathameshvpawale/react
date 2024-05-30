@@ -1,5 +1,2 @@
 # react
-create react project
-# add
-# testing
-# adding
+# background color chenger
